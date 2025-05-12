@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "errors",
+      "type": "com.lib.exceptionhandler.ErrorConfig",
+      "sourceType": "com.lib.exceptionhandler.ErrorConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "errors.errors",
+      "type": "java.util.Map<java.lang.Integer,com.lib.exceptionhandler.ErrorConfig$ErrorDetail>",
+      "sourceType": "com.lib.exceptionhandler.ErrorConfig"
+    }
+  ],
+  "hints": []
+}
