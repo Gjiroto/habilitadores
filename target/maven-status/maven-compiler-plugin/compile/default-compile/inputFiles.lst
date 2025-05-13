@@ -1,0 +1,7 @@
+/home/gjiroto/Documentos/proyectos/queue-status-processor/src/main/java/com/example/queueprocessor/QueueProcessorApplication.java
+/home/gjiroto/Documentos/proyectos/queue-status-processor/src/main/java/com/example/queueprocessor/application/service/QueueStatusService.java
+/home/gjiroto/Documentos/proyectos/queue-status-processor/src/main/java/com/example/queueprocessor/domain/model/QueueStatus.java
+/home/gjiroto/Documentos/proyectos/queue-status-processor/src/main/java/com/example/queueprocessor/entrypoints/controller/QueueStatusController.java
+/home/gjiroto/Documentos/proyectos/queue-status-processor/src/main/java/com/example/queueprocessor/infrastructure/config/OracleDataSourceConfig.java
+/home/gjiroto/Documentos/proyectos/queue-status-processor/src/main/java/com/example/queueprocessor/infrastructure/repository/QueueStatusJdbcRepository.java
+/home/gjiroto/Documentos/proyectos/queue-status-processor/src/main/java/com/example/queueprocessor/infrastructure/repository/QueueStatusRepository.java
